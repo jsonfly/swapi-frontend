@@ -1,0 +1,10 @@
+.Person {
+    width: 300px;
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+.Person > h2 {
+    padding: 10px;
+    border-radius: 5px;
+}
